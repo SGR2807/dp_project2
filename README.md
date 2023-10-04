@@ -1,8 +1,8 @@
 # dproject
 
 A new Flutter project.
-![WhatsApp Image 2023-10-04 at 6 56 52 PM (1)](https://github.com/SGR2807/dp_project2/assets/79045696/94196271-cc39-4be5-b6a7-845f8dea2589)
 
+<img width="163" alt="image" src="https://github.com/SGR2807/dp_project2/assets/79045696/ae85e8d1-0427-4376-a86c-b517f1532dbf">
 
 
 ## Getting Started
